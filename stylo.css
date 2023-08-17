@@ -1,0 +1,17 @@
+body{
+	background: rgba(255, 0, 0, 0.2);
+}
+
+.black{
+	color: navy;
+}
+
+.white{
+       font-family: serif;
+       font-size: 20px;
+       color: #000000;
+}
+
+spam{
+	color: green;
+}
